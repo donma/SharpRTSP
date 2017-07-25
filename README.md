@@ -381,4 +381,4 @@ RTSP Client Example
 
 
 2017:
-Add Option : SET_PARAMETER 
+* Addd Option  SET_PARAMETER for Device use. 
